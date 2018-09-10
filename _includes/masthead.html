@@ -2,7 +2,10 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <a class="site-title" href="{{ '/' | relative_url }}" style="max-width: 250px"> 
+          <!-- {{ site.title }} -->
+          <img src=/assets/img/Buffalo_CSE.png width=100%>
+        </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}
