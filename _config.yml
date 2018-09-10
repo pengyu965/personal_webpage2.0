@@ -104,7 +104,7 @@ author:
   avatar           : "./assets/img/profile.jpeg"
   bio              : "Graduate Student in CSE"
   location         : "Buffalo, NY State"
-  email            : "py.yan965@gmail.com"
+  email            : "pyan4@buffalo.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
