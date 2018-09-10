@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: index
-  - title: "Experience"
-    url: experiences
+  # - title: "Experience"
+  #   url: experiences
   - title: "Projects"
     url: projects
   - title: "Publications"

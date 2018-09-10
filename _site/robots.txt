@@ -1,1 +1,1 @@
-Sitemap: https://cse.buffalo.edu//~pyan4/sitemap.xml
+Sitemap: http://localhost:4000/~pyan4/sitemap.xml

@@ -12,6 +12,18 @@ author_profile: true
     Before that, I recieved B.Eng from <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a>
 </p>
 
+<!-- # Educations
+<ul style="font-size:18px; text-align:justify">
+<li> <b>PhD, Research Assistant.</b> &nbsp;&nbsp; Aug, 2018 -- Now
+<br> <i>Department of Computer Science and Engineering, University at Buffalo.</i>
+</li>
+
+<li> <b>B.Eng.</b> &nbsp;&nbsp; Sept, 2014--July, 2018
+<br> <i>Electronic Sci and Tech, Uni. of Electronic Science &amp; Technology of China.</i>
+</li>
+
+</ul> -->
+
 # Interests
 
 * Computer Vision, Image and Video Processing
@@ -19,7 +31,7 @@ author_profile: true
 
 # News
 
-<ul style="font-size:12pt; text-align:justify">
+<ul style="font-size:18px; text-align:justify">
 <li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">July. 2018</b> The paper '<i>Unsupervised Saliency Detection in 3-D-Video Based on Multiscale Segmentation and Refinement</i>' has been <font color="red"><i>ACCEPTED</i></font> by IEEE. Signal Processing Letter.</li>
 <li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">July. 2018</b>: I graduated from University of Electronic Science and Technology of China, with Bachelor Degree of Engineering.</li>
 <li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">May. 2018</b>: I will be entering the <a href="https://engineering.buffalo.edu/computer-science-engineering.html">CSE department</a> in <a href="https://www.buffalo.edu/">University at Buffalo, SUNY</a>.
