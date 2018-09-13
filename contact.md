@@ -18,5 +18,5 @@ Buffalo, NY 14260-2500
 
 Phone: (716)907-3684
 <br>
-Email: <a href="mailto:pyan4@buffalo.edu">py.yan965@gmail.com</a> 
+Email: <a href="mailto:pyan4@buffalo.edu">pyan4@gmail.com</a> 
 </p>
