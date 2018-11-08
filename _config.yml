@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Pengyu Yan"
-  avatar           : "./assets/img/lab_profile.jpg"
+  avatar           : "./assets/img/profile.jpeg"
   bio              : "Graduate Student in CSE"
   location         : "Buffalo, NY State"
   email            : "pyan4@buffalo.edu"
