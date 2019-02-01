@@ -5,11 +5,10 @@ author_profile: true
 # About Me
 
 <p style="text-align:justify">
-    I am a first-year graduate student (PhD Program) advised by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>, in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Department of Computer Science and Engineering</a>, State University of New York at Buffalo.
+    I am a first-year PhD student advised by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>, in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Department of Computer Science and Engineering</a>, State University of New York at Buffalo. In 2018, I recieved B.Eng in Electronic Engineering from <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a>
 </p>
-
-<p style="text-align:justify">
-    Before that, I recieved B.Eng from <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a>
+<p style="text-align:justify; font-size:18px">
+    My Resume could be found <a href = "./assets/file/Pengyu_CV.pdf/">HERE</a>.
 </p>
 
 <!-- # Educations
