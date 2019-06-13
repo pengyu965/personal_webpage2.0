@@ -5,7 +5,8 @@ author_profile: true
 # About Me
 
 <p style="text-align:justify">
-    I am a first-year PhD student advised by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>, in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Department of Computer Science and Engineering</a>, State University of New York at Buffalo. In 2018, I recieved B.Eng in Electronic Engineering from <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a>
+    <!-- I am a second-year PhD student advised by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>, in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Department of Computer Science and Engineering</a>, State University of New York at Buffalo. In 2018, I recieved B.Eng in Electronic Engineering from <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a> -->
+    I am second-year PhD student in CSE department of University at Buffalo, supervised by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>. As the first member in AI Lab, which is formed by Dr. Doermann in UB, my research focused on nature language processing, computer vision and document analysis areas.  Previously, I am an undergraduate student in <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a>, majored in Electronic Science and Technology.
 </p>
 <p style="text-align:justify; font-size:18px">
     My Resume could be found <a href = "./assets/file/Pengyu_CV.pdf">HERE</a>.
@@ -35,5 +36,4 @@ author_profile: true
 <li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">July. 2018</b>: I graduated from University of Electronic Science and Technology of China, with Bachelor Degree of Engineering.</li>
 <li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">May. 2018</b>: I will be entering the <a href="https://engineering.buffalo.edu/computer-science-engineering.html">CSE department</a> in <a href="https://www.buffalo.edu/">University at Buffalo, SUNY</a>.
 </li>
-<li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">Sept. 2017</b>: I finished my 3rd year study with <b>GPA 4.0/4.0</b>, ranked <b>9/192</b>. </li>
 </ul>
