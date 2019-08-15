@@ -6,7 +6,7 @@ author_profile: true
 
 <p style="text-align:justify">
     <!-- I am a second-year PhD student advised by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>, in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Department of Computer Science and Engineering</a>, State University of New York at Buffalo. In 2018, I recieved B.Eng in Electronic Engineering from <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a> -->
-    I am second-year PhD student in CSE department of University at Buffalo, supervised by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>. As the first member in AI Lab, which is formed by Dr. Doermann in UB, my research focused on nature language processing, computer vision and document analysis areas.  Previously, I am an undergraduate student in <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a>, majored in Electronic Science and Technology.
+    I am second-year PhD student in CSE department of University at Buffalo, supervised by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>. As the first member in AI Lab, which is formed by Dr. Doermann in UB, my research focused on computer vision, nature language processing and document analysis areas.  Previously, I am an undergraduate student in <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a>, majored in Electronic Science and Technology.
 </p>
 <p style="text-align:justify; font-size:18px">
     My Resume could be found <a href = "./assets/file/Pengyu_CV.pdf">HERE</a>.
@@ -26,14 +26,15 @@ author_profile: true
 
 # Interests
 
-* Computer Vision, Image and Video Processing
+* Computer Vision, Nature Language Processing
+* Document and Chart Analysis
 * Machine Learning and Deep learning
 
 # News
 
 <ul style="font-size:18px; text-align:justify">
+<li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">Aug. 2018</b>: I join the PhD program in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">CSE department</a> of <a href="https://www.buffalo.edu/">University at Buffalo, SUNY</a>.
 <li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">July. 2018</b> The paper '<i>Unsupervised Saliency Detection in 3-D-Video Based on Multiscale Segmentation and Refinement</i>' has been <font color="red"><i>ACCEPTED</i></font> by IEEE. Signal Processing Letter.</li>
-<li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">July. 2018</b>: I graduated from University of Electronic Science and Technology of China, with Bachelor Degree of Engineering.</li>
-<li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">May. 2018</b>: I will be entering the <a href="https://engineering.buffalo.edu/computer-science-engineering.html">CSE department</a> in <a href="https://www.buffalo.edu/">University at Buffalo, SUNY</a>.
+<li style="list-style-image: url(./assets/img/new.jpg)"><b style="color:red">July. 2018</b>: I graduated from University of Electronic Science and Technology of China, with Bachelor Degree of Engineering, GPA 3.7.</li>
 </li>
 </ul>
