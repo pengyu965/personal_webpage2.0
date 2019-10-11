@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 
-To be updated.
+About to update very soon.
 
 <br>
 

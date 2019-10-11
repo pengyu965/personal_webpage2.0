@@ -7,7 +7,7 @@ author_profile: true
 <br>
 
 <p style="font-size:16pt;text-align:center">
-AI Lab
+AI Innovation Lab
 <br>
 113X Davis Hall
 <br>
@@ -18,5 +18,5 @@ Buffalo, NY 14260-2500
 
 Phone: (716)907-3684
 <br>
-Email: <a href="mailto:pyan4@buffalo.edu">pyan4@gmail.com</a> 
+Email: <a href="mailto:pyan4@buffalo.edu">pyan4@buffalo.edu</a> 
 </p>

@@ -11,7 +11,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  color: $text-color;
+  color: rgba(0, 0, 0, 0.808);
   font-family: $global-font-family;
   line-height: 1.5;
 
@@ -31,6 +31,7 @@ h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+  color: rgba(51, 102, 153, 0.808);
 }
 
 h1 {
