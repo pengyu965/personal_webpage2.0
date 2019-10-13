@@ -5,6 +5,7 @@
 /*
    Typography
    ========================================================================== */
+@import '../fonts/latofonts.css';
 
 $doc-font-size: 16 !default;
 
@@ -26,10 +27,12 @@ $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 $georgia: Georgia, serif !default;
 $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
-$calisto: "Calisto MT", serif !default;
+$calisto: "Calisto MT", s0erif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $calisto !default;
+$lato: 'LatoWeb', sans-serif !default;
+
+$global-font-family: $lato !default;
 $header-font-family: $calisto !default;
 $caption-font-family: $serif !default;
 
