@@ -5,7 +5,6 @@ author_profile: true
 # About Me
 
 <p style="text-align:justify">
-    <!-- I am a second-year PhD student advised by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>, in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Department of Computer Science and Engineering</a>, State University of New York at Buffalo. In 2018, I recieved B.Eng in Electronic Engineering from <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a> -->
     I am a Research Assistant and second-year PhD student in AI Innovation Lab, which is directed by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>. My research focused on computer vision, nature language processing and document analysis areas. Recently, I am working on chart information extraction and scientific figure-text linking problem. <br><br>
     
     Previously, I am an undergraduate student in <a href="http://en.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC).</a>, majored in Electronic Science and Technology.
@@ -30,21 +29,15 @@ Sept, 2014--July, 2018<br>
 
 </ul>
 
-# Experience
+<!-- # Experience
 <ul style="font-size:18px; text-align:justify">
 <li style="list-style:none; background-image: url(./assets/img/adobe_logo.svg);background-size:40px; background-repeat:no-repeat; background-position:left center; padding: 0px 0 0px 3em; margin:1.2em 0 0 -1.3em"> 
 <b>Visiting Student.</b> &emsp;&emsp; Jun, 2019 -- Aug, 2019 <br>
 <i>Adobe Research, College Park, MD .</i>
 </li>
 
-</ul>
+</ul> -->
 
-
-<!-- # Interests
-
-* Computer Vision, Nature Language Processing
-* Document and Chart Analysis
-* Machine Learning and Deep learning -->
 
 # News
 
