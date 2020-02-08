@@ -29,14 +29,14 @@ Sept, 2014--July, 2018<br>
 
 </ul>
 
-<!-- # Experience
+# Experience
 <ul style="font-size:18px; text-align:justify">
 <li style="list-style:none; background-image: url(./assets/img/adobe_logo.svg);background-size:40px; background-repeat:no-repeat; background-position:left center; padding: 0px 0 0px 3em; margin:1.2em 0 0 -1.3em"> 
 <b>Visiting Student.</b> &emsp;&emsp; Jun, 2019 -- Aug, 2019 <br>
 <i>Adobe Research, College Park, MD .</i>
 </li>
 
-</ul> -->
+</ul>
 
 
 # News
